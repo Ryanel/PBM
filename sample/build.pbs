@@ -1,0 +1,4 @@
+#Comment
+build.pretend=true;
+project.name="Sample Project";
+project.targetarch="x86";
